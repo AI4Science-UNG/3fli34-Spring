@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "AI4Science-UNG"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "AI4Science-3Fli34"
+description              : &description "AI4 Science Course website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ai4science-ung.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/3fli34-Spring" # the subpath of your site, e.g. "/blog"
@@ -23,14 +23,14 @@ repository               : "AI4Science-UNG/3fli34-Spring"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ai4sc-logo.png"
+  name             : "3Fli34-Spring Semester"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI4 Science Course website"
+  location         : '<a href="https://www.google.com/maps/search/?api=1&query=45.8853081,13.9083829" target="_blank">Ajdovščina, Amphitheater Room</a>'
+  employer         : <a href="https://www.ung.si">University of Nova Gorica</a>
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
