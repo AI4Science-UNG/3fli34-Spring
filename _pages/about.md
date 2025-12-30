@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![funnyloss-pic](/images/Gemini_train-loss.png){: .align-right}
+![funnyloss-pic](/images/Gemini_train-loss.png){: .align-right width="300px"}
 This is the course webpage for the course ["Selected Topics in Machine Learning and AI Applications in Science"](https://ung.si/en/schools/graduate-school/programmes/3FI/2025/3Fli34/2025/). 
 
 The course is a part of the [Doctoral Study Program in Physics](https://ung.si/en/schools/graduate-school/programmes/3FI/) at UNG. Completing this course will provide 6 ECTS requiring ~180 total hours of involvement (lectures + tutorial/discussion + individual work) from the interested graduate students. However the course is currently open to the UNG employees at all level to attend. Please check Schedule to know beforehand the agenda + pre-requisites for the lecture. 
