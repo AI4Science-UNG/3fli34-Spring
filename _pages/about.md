@@ -13,13 +13,22 @@ This is the course webpage for the course ["Selected Topics in Machine Learning 
 
 <p></p>
 
+<p></p>
+
 The course is a part of the [Doctoral Study Program in Physics](https://ung.si/en/schools/graduate-school/programmes/3FI/){:target="_blank" rel="noopener"} at UNG. Completing this course will provide 6 ECTS requiring ~180 total hours of involvement (lectures + tutorial/discussion + individual work) from the interested graduate students. However the course is currently open to the UNG employees at all level to attend. Please check [Schedule](https://ai4science-ung.github.io/3fli34-Spring/schedule/){:target="_blank" rel="noopener"} to know beforehand the agenda + pre-requisites for the lecture. 
+
+<p></p>
+
 
 Basic python skills are necessary from the start of the course and mode of communication throughout will be in English.  
 
 <p></p>
 
+<p></p>
+
 Course P.I. is [Prof. dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/){:target="_blank" rel="noopener"} and lectures + tutorials will mostly be provided by the UNG [SMASH](https://smash.ung.si/){:target="_blank" rel="noopener"} fellows. 
+
+<p></p>
 
 <p></p>
 
