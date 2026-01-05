@@ -14,12 +14,12 @@ collection: schedule
 
  
 
-| Date          | Topics        | Pre-requisites |
-|:------------- |:-------------:| :-----:|
-| To be announced| * Class Introduction<br/> * Supervised Learning + Loss Functions in ML<br/> * Regression + Classification<br/> * Principal Component Analysis<br /> | * Basic Linear Algebra<br/> * Differentiation/Maxima <br/> * Lists, vectors in Python<br/> |
-| To be announced   |  * Intro to Deep Neural Net<br/> * Gradient Descent + backpropagation<br/> * Convolutional Neural Net<br/> | * The Lecture before<br/> * Linear algebra<br/> *maxima/minima, chain rule <br/> * Vectors/Numpy arrays in Python<br/>  |
-| To be announced |  * Data Distribution<br/> *Train-Test Split + Batch & BatchNorm<br/> * Model Evaluation <br/> * Intro to Unsupervised Learning <br/> |    |
-|       |    |    |
+| Date          | Topics        | Pre-requisites | Lecturer |
+|:------------- |:-------------:| :-----:| :-----: |
+| To be announced| * Class Introduction<br/> * Supervised Learning + Loss Functions in ML<br/> * Regression + Classification<br/> * Principal Component Analysis<br /> | * Basic Linear Algebra<br/> * Differentiation/Maxima <br/> * Lists, vectors in Python<br/> | [Saptashwa Bhattacharyya](https://suvoooo.github.io/) <br/> sbhattacharyya@ung.si | 
+| To be announced   |  * Intro to Deep Neural Net<br/> * Gradient Descent + backpropagation<br/> * Convolutional Neural Net<br/> | * The Lecture before<br/> * Linear algebra<br/> *maxima/minima, chain rule <br/> * Vectors/Numpy arrays in Python<br/>  | [Saptashwa Bhattacharyya](https://suvoooo.github.io/) <br/> sbhattacharyya@ung.si | 
+| To be announced |  * Data Distribution<br/> *Train-Test Split + Batch & BatchNorm<br/> * Model Evaluation & Metrics <br/>  | Oleksandra  Razim <br/> oleksandra.razim@ung.si|
+| To be announced | * Intro to Unsupervised Learning <br/>   |  | | 
 
 
 

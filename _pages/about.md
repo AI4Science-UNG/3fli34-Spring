@@ -15,12 +15,20 @@ This is the course webpage for the course ["Selected Topics in Machine Learning 
 
 <p></p>
 
-The course is a part of the [Doctoral Study Program in Physics](https://ung.si/en/schools/graduate-school/programmes/3FI/){:target="_blank" rel="noopener"} at UNG. Completing this course will provide 6 ECTS requiring ~180 total hours of involvement (lectures + tutorial/discussion + individual work) from the interested graduate students. However the course is currently open to the UNG employees at all level to attend. Please check [Schedule](https://ai4science-ung.github.io/3fli34-Spring/schedule/){:target="_blank" rel="noopener"} to know beforehand the agenda + pre-requisites for the lecture. 
+The course is a part of the [Doctoral Study Program in Physics](https://ung.si/en/schools/graduate-school/programmes/3FI/){:target="_blank" rel="noopener"} at UNG. Completing this course will provide 6 ECTS requiring ~180 total hours of involvement (lectures + tutorial/discussion + individual work) from the interested graduate students. However the course is currently open to the UNG employees at all level to attend. 
+
+<p></p> 
+
+We are also planning to offer micro-credits for the course. More information to follow!
+
+<p></p>
+
+Please check [Schedule](https://ai4science-ung.github.io/3fli34-Spring/schedule/){:target="_blank" rel="noopener"} to know beforehand the agenda + pre-requisites for the lecture. 
 
 <p></p>
 
 
-Basic python skills are necessary from the start of the course and mode of communication throughout will be in English.  
+Basic knowledge of probability distributions and statistical analysis methods (likelihood, chi-square minimization, ..) would be really helpful from the beginning. The codes, and machine learning libraires used in the course are all based on python. So basic skills in python (arrays, lists, dictionaries, functions, ..) are necessary from the start of the course. Mode of communication throughout will be in English. You will find more helpful links to read/watch in Materials page.
 
 <p></p>
 
