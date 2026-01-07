@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Resources"
+permalink: /resources/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.resources %}
+  <article class= "archive__item">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
+    <div class="archive__item-content">
+      {{ post.content }}
+    </div>
+  </article>
+  <hr /> {% endfor %}
+

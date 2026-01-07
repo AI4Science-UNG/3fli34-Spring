@@ -236,7 +236,12 @@ collections:
   schedule:
     output: true
     permalink: /:collection/:path/  
-
+  materials:
+    output: true
+    permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/  
 
 # These settings control how pages and collections are included in the site
 defaults:
