@@ -28,7 +28,7 @@ Please check [Schedule](https://ai4science-ung.github.io/3fli34-Spring/schedule/
 <p></p>
 
 
-Basic knowledge of probability distributions and statistical analysis methods (likelihood, chi-square minimization, ..) would be really helpful from the beginning. The codes, and machine learning libraires used in the course are all based on python. So basic skills in python (arrays, lists, dictionaries, functions, ..) are necessary from the start of the course. Mode of communication throughout will be in English. You will find more helpful links to read/watch in Materials page.
+Basic knowledge of probability distributions and statistical analysis methods (likelihood, chi-square minimization, ..) would be really helpful from the beginning. The codes, and machine learning libraires used in the course are all based on python. So basic skills in python (arrays, lists, dictionaries, functions, ..) are necessary from the start of the course. Mode of communication throughout will be in English. You will find more helpful links to read/watch in [Resources](https://ai4science-ung.github.io/3fli34-Spring/resources/) page.
 
 <p></p>
 
@@ -60,18 +60,18 @@ Course P.I. is [Prof. dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/
 <p></p>
 
 
-#### Software and Libraries:
+### Software and Libraries:
 
 As mentioned before, we will use Python ecosystem. Most common libraries that will be used in lectures+tutorials are: 
 
 * Data Handling + Manipulation:
-	* [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/), Numpy (https://numpy.org/)
+	* [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/), [Numpy] (https://numpy.org/)
 
 * Standard ML library: 
 	* [Scikit-Learn](https://scikit-learn.org/stable/) 
 
 * DL Libraries: 
-	* [TensorFlow](https://www.tensorflow.org/), PyTorch(https://pytorch.org/). 
+	* [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/). 
 
 
 _Other specific software stack/libraries for tutorials will be introduced by the instructor(s) during hands-on sessions._
@@ -81,3 +81,5 @@ _Other specific software stack/libraries for tutorials will be introduced by the
 <p></p>
 
 #### Upcoming Lecture:
+
+_Will be announced soon!_

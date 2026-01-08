@@ -1,7 +1,7 @@
 ---
-title: "Useful Resources"
-excerpt: "materials for the course"
-collection: materials
+title: 
+excerpt: "resources for the course"
+collection: resources
 ---
 
 ![funnySched-pic]({{ site.baseurl }}/images/bald.jpeg){: .align-right width="300px"}

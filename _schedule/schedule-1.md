@@ -1,5 +1,5 @@
 ---
-title: "Lecture Schedule"
+title:
 excerpt: "Short description of schedule"
 collection: schedule
 ---
