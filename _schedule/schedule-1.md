@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 excerpt: "Short description of schedule"
 collection: schedule
 ---
