@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 excerpt: "materials for the course"
 collection: materials
 ---
