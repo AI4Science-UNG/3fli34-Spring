@@ -65,13 +65,13 @@ Course P.I. is [Prof. dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/
 As mentioned before, we will use Python ecosystem. Most common libraries that will be used in lectures+tutorials are: 
 
 * Data Handling + Manipulation:
-	* [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/), [Numpy] (https://numpy.org/)
+	* [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/), [Numpy](https://numpy.org/)
 
 * Standard ML library: 
 	* [Scikit-Learn](https://scikit-learn.org/stable/) 
 
 * DL Libraries: 
-	* [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/). 
+	* [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/) 
 
 
 _Other specific software stack/libraries for tutorials will be introduced by the instructor(s) during hands-on sessions._
