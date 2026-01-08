@@ -43,13 +43,41 @@ Course P.I. is [Prof. dr. Gabrijela Zaharijaš](https://www2.ung.si/~gzaharijas/
 
 ### Broad Overview of Topics: (Tentative)
 
- *  Regression and Classification
- *  Perceptron, Gradient Descent and Backpropagation
- *  Deep Neural Network: Convolution and Convolutional Neural Network; Applications on Image Analysis
- *  Handling and Preparing Data + Unsupervised Learning   
- *  Statistical Techniques: Bayes’ Rule, Maximum A Posteriori (MAP), KL Divergence; Intro to Variational Auto Encoder
- *  Flow models + Simulation Based Inference
- *  Attention and Transformers
- *  ...
+ * Regression and Classification
+ * Perceptron, Gradient Descent and Backpropagation
+ * Deep Neural Network: Convolution and Convolutional Neural Network; Applications on Image Analysis
+ * Handling and Preparing Data + Unsupervised Learning   
+ * Statistical Techniques: Bayes’ Rule, Maximum A Posteriori (MAP), KL Divergence; Intro to Variational Auto Encoder
+ * Flow models + Simulation Based Inference
+ * Attention Mechanism, and Transformers.
+ * Advanced Generative Models: GAN, Stable Diffusion
+ * Introduction to LLMs 
+ * ...
+
+
+<p></p>
+
+<p></p>
+
+
+#### Software and Libraries:
+
+As mentioned before, we will use Python ecosystem. Most common libraries that will be used in lectures+tutorials are: 
+
+* Data Handling + Manipulation:
+	* [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/), Numpy (https://numpy.org/)
+
+* Standard ML library: 
+	* [Scikit-Learn](https://scikit-learn.org/stable/) 
+
+* DL Libraries: 
+	* [TensorFlow](https://www.tensorflow.org/), PyTorch(https://pytorch.org/). 
+
+
+_Other specific software stack/libraries for tutorials will be introduced by the instructor(s) during hands-on sessions._
+
+<p></p>
+
+<p></p>
 
 #### Upcoming Lecture:
