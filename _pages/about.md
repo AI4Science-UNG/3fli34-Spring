@@ -28,7 +28,7 @@ Please check [Schedule](https://ai4science-ung.github.io/3fli34-Spring/schedule/
 <p></p>
 
 
-Basic knowledge of probability distributions and statistical analysis methods (likelihood, chi-square minimization, ..) would be really helpful from the beginning. The codes, and machine learning libraires used in the course are all based on python. So basic skills in python (arrays, lists, dictionaries, functions, ..) are necessary from the start of the course. Mode of communication throughout will be in English. You will find more helpful links to read/watch in [Resources](https://ai4science-ung.github.io/3fli34-Spring/resources/) page.
+Basic knowledge of probability distributions and statistical analysis methods (likelihood, chi-square minimization, ..) would be really helpful from the beginning. The codes, and machine learning libraires used in the course are all based on python. So basic skills in python (arrays, lists, dictionaries, functions, ..) are necessary from the start of the course. Mode of communication throughout will be in English. You will find more helpful links to read/watch in [Resources](https://ai4science-ung.github.io/3fli34-Spring/resources/){:target="_blank" rel="noopener"} page.
 
 <p></p>
 
