@@ -18,6 +18,13 @@ _The course material after every lecture will be provided here. Stay tuned_
 
 * **Lecture Video:** [Watch on YouTube](https://www.youtube.com/watch?v=OgBASQps2DU&list=PLlVRtMxqAYCoTl8M5n_f9XDi5EnljqRlj)
 
-* **Notebooks: ** [Check for Example Codes used within slides](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-1/Notebooks-Data/)
+* **Notebooks:** [Check for Example Codes used within slides](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-1/Notebooks-Data/)
 
 ## Lecture 2: 13/02/2026
+
+* **Slides:** [Not Yet!]
+
+* **Notebooks:** 
+	* [Check for a Simple Dense-Net for MNIST](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Notebooks-Data/MNIST_DenseNet.ipynb)
+	* [Check for a Simple Conv-Net for MNIST](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Notebooks-Data/MNIST_ConvNet.ipynb)
+	
