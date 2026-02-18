@@ -25,8 +25,10 @@ _The course material after every lecture will be provided here. Stay tuned_
 * **Slides:** [Download PDF](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Lec-2-SB-1302026.pdf)
 
 * **Notebooks:** 
-        
+
         * [Notebook for Simple PCA](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Notebooks-Data/PCA-BreastCancer.ipynb)
+        
 	* [Check for a Simple Dense-Net for MNIST](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Notebooks-Data/MNIST_DenseNet.ipynb)
+	
 	* [Check for a Simple Conv-Net for MNIST](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Notebooks-Data/MNIST_ConvNet.ipynb)
 	

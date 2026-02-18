@@ -16,14 +16,20 @@ _As we go over lectures, more necessary resources will be provided here_
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/); _S. Prince_ 
 
--------------------------------------
+
 
 ### Lec1 + Lec 2: 
 
-*[Loss Functions + Likelihood: Berkely Lec. Notes](https://c.d2l.ai/berkeley-stat-157/slides/2_5/5-Logistic.pdf)
-*[PCA Whitening: Stanford Lec. Notes](http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/)
-*[XOR Problem: MLP + Decision Boundary](https://web.fs.uni-lj.si/lasin/wp-content/include-me/neural/nn04_mlp_xor/)
-*[Simple Deep Learning Tricks: Stanford CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks/)
-*[Stanford Convolution: Stanford CheatSheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks/)
+* [Loss Functions + Likelihood:](https://c.d2l.ai/berkeley-stat-157/slides/2_5/5-Logistic.pdf) Berkely Lec. Notes.
+
+* [PCA Whitening: ](http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/) Stanford Lec. Notes.
+
+* [XOR Problem: MLP + Decision Boundary](https://web.fs.uni-lj.si/lasin/wp-content/include-me/neural/nn04_mlp_xor/); University of LJ Notes.
+
+* [Simple Deep Learning Tricks: ](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks/) Stanford CheatSheet
+
+* [Convolution + Pool + etc,.: ](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks/) Stanford CheatSheet
+
+
 
 ### Lec 3: 
