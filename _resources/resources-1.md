@@ -20,7 +20,7 @@ _As we go over lectures, more necessary resources will be provided here_
 
 ### Lec1 + Lec 2: 
 
-* [Loss Functions + Likelihood:](https://c.d2l.ai/berkeley-stat-157/slides/2_5/5-Logistic.pdf) Berkely Lec. Notes.
+* [Loss Functions + Likelihood:](https://c.d2l.ai/berkeley-stat-157/slides/2_5/5-Logistic.pdf) Berkeley Lec. Notes.
 
 * [PCA Whitening: ](http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/) Stanford Lec. Notes.
 
