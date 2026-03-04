@@ -32,4 +32,6 @@ _As we go over lectures, more necessary resources will be provided here_
 
 
 
-### Lec 3: 
+### Lec 3 + Lec 4:
+
+* [Github repository](https://github.com/ShrRa/ml_course_public) with [lecture slides](https://github.com/ShrRa/ml_course_public/tree/day_2/Slides) and Jupyter Notebooks with demos and exercises
