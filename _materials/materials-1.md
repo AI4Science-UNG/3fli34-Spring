@@ -32,3 +32,6 @@ _The course material after every lecture will be provided here. Stay tuned_
 	
   * [Check for a Simple Conv-Net for MNIST](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-2/Notebooks-Data/MNIST_ConvNet.ipynb)
 	
+## Lecture 5: 06/03/2026
+
+* **Slides:** [Download PDF](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-5/UNG_AI4Science_course_5.pdf)
