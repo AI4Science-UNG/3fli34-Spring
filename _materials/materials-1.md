@@ -35,3 +35,23 @@ _The course material after every lecture will be provided here. Stay tuned_
 ## Lecture 5: 06/03/2026
 
 * **Slides:** [Download PDF](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-5/UNG_AI4Science_course_5.pdf)
+
+## Lecture 6: 13/03/2026
+
+* **Slides:** [Download PDF](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-6/SBILecture_UNG_I.pdf)
+
+* **Notebooks:**
+
+  * [Example of Neural Posterior Estimation](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-6/Tutorial_1_NPE_Getting_Started.ipynb)
+  * [NPE vs NLE vs NRE](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-6/Tutorial_2_Three_Flavours.ipynb)
+  
+
+## Lecture 7: 20/03/2026
+
+* **Slides:** [Download PDF](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/SBILecture_II.pdf)
+
+* **Notebooks:**
+
+  * [Sequential Inference](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/Tutorial_3_Sequential_Inference.ipynb)
+  * [Diagonising Your Model](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/Tutorial_4_Diagnostics.ipynb)
+  * [Throwing a Ball: Inference](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/Tutorial_5_Ball_Throw_Physics.ipynb)  	
