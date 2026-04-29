@@ -55,3 +55,9 @@ _The course material after every lecture will be provided here. Stay tuned_
   * [Sequential Inference](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/Tutorial_3_Sequential_Inference.ipynb)
   * [Diagonising Your Model](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/Tutorial_4_Diagnostics.ipynb)
   * [Throwing a Ball: Inference](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-7/Tutorial_5_Ball_Throw_Physics.ipynb)  	
+  
+## Lecture 8: 03/04/2026 
+
+* **Slides:** [Download PDF](https://github.com/AI4Science-UNG/3fli34-Spring/tree/master/_materials/Lectures/Lec-8/Structural_BioAI_Lecture.pdf)
+
+* **Lecture Video:** [Watch on YouTube](https://www.youtube.com/watch?v=X3D_q02eGCE&list=PLlVRtMxqAYCoTl8M5n_f9XDi5EnljqRlj&index=3) 

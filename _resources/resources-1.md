@@ -35,3 +35,8 @@ _As we go over lectures, more necessary resources will be provided here_
 ### Lec 3 + Lec 4:
 
 * [Github repository](https://github.com/ShrRa/ml_course_public) with [lecture slides](https://github.com/ShrRa/ml_course_public/tree/day_2/Slides) and Jupyter Notebooks with demos and exercises
+
+
+### Lec 8:
+
+*[AlphaFold3: Google Blog](https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules)
